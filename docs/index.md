@@ -1,4 +1,4 @@
-# 자연어 처리의 응용: NLP and its recent progress.
+# M3239.004000.  자연어 처리의 응용: NLP and its recent progress.
 
 ## Links
 
@@ -12,9 +12,6 @@
 🏃🏻‍♂️ [Course description](https://leejayyoon.github.io/nlp-gsds/#course-description)
 📐 [Grading policy](https://leejayyoon.github.io/nlp-gsds/#grading-policy) 
 
-## Course Title
-
-M3239.004000  자연어 처리의 응용 : NLP and its recent progress.
 
 ## **Reference Texts**
 
