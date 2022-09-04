@@ -3,14 +3,12 @@
 ## Links
 
 🗓 [Course schedule](https://leejayyoon.github.io/nlp-gsds/course_schedule.csv)
-
-📕 [Reference Texts](https://leejayyoon.github.io/nlp-gsds/#reference-texts)
-
-🕰 [Time & Location](https://leejayyoon.github.io/nlp-gsds/#time--location)
+ 📕 [Reference Texts](https://leejayyoon.github.io/nlp-gsds/#reference-texts)
+ 🕰 [Time & Location](https://leejayyoon.github.io/nlp-gsds/#time--location)
 
 👨🏻‍🏫 [Instructor & TAs](https://leejayyoon.github.io/nlp-gsds/#instructor)
-🏃🏻‍♂️ [Course description](https://leejayyoon.github.io/nlp-gsds/#course-description)
-📐 [Grading policy](https://leejayyoon.github.io/nlp-gsds/#grading-policy) 
+ 🏃🏻‍♂️ [Course description](https://leejayyoon.github.io/nlp-gsds/#course-description)
+ 📐 [Grading policy](https://leejayyoon.github.io/nlp-gsds/#grading-policy) 
 
 
 ## **Reference Texts**
