@@ -2,7 +2,7 @@
 
 ## Links
 
-[Course schedule](%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%AD%E1%86%BC%20NLP%20and%20its%20recent%20progress%2035fe2e06897944258eaaab14f77c322a/Course%20schedule%2000dc8071593b4e878a0fb648a8914bde.csv)
+[Course schedule](https://leejayyoon.github.io/nlp-gsds/course_schedule.html)
 
 📕   [Reference Texts.](%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%AD%E1%86%BC%20NLP%20and%20its%20recent%20progress%2035fe2e06897944258eaaab14f77c322a.md)
 
