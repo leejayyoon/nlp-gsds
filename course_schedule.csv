@@ -1,0 +1,33 @@
+﻿Week,Lecture,Date,Property,Topic,Assignments
+Week 1,1,"September 1, 2022",Thu,Introducton  (Course overview),
+Week 2,2,"September 6, 2022",Tue,Word representations 1,
+,3,"September 8, 2022",Thu,Word representations 2,
+Week 3,4,"September 13, 2022",Tue,Deep learning basics,Assignemnt 1 out
+,5,"September 15, 2022",Thu,TA recitation: Matrix caculus & chain rules,
+Week 4,6,"September 20, 2022",Tue,RNN: Sequence representation and Language Model.,
+,7,"September 22, 2022",Thu,"RNN2: Sequence-to-sequence, attention",
+Week 5,8,"September 27, 2022",Tue,TA recitation: pytorch tutorial,Assignment 1 in
+,9,"September 29, 2022",Thu,"self-attention models, transformer",Assignment 2 out
+Week 6,10,"October 4, 2022",Tue,"Pre-trained models (BERT, ELMo, GPT)",
+,11,"October 6, 2022",Thu,"Core NLP1(parsing, SRL, AMR)",
+Week 7,12,"October 11, 2022",Tue,"Core NLP2 (parsing, SRL, AMR)",
+,13,"October 13, 2022",Thu,"Information Extraction  (entity detection, entity linking, relation extraction)",
+Week 8,14,"October 18, 2022",Tue,Question Answering (QA1),Assignment 2 in
+,15,"October 20, 2022",Thu,Midterm,
+Week 9,16,"October 25, 2022",Tue,QA continued,Assignment 3 out
+,17,"October 27, 2022",Thu,TA recitation: Hugging Face repository,
+Week 10,18,"November 1, 2022",Tue,Natural language generation,"
+Project proposal due"
+,19,"November 3, 2022",Thu,Natural language generation,
+Week 11,20,"November 8, 2022",Tue,Structured prediction,
+,21,"November 10, 2022",Thu,Structured prediction,"Assignment 3 in "
+Week 12,22,"November 15, 2022",Tue,"Self-supervised learning, semi-supervised learning",Assignment 4 out
+,23,"November 17, 2022",Thu,"Self-supervised learning, semi-supervised learning",
+Week 13,24,"November 22, 2022",Tue,Recent topics: Injecting constraints and logic into NN (tentative),
+,25,"November 24, 2022",Thu,Recent topics: Bias & Fairness (tentative),
+Week 14,26,"November 29, 2022",Tue,Guest lecture 1 - tentative,
+,27,"December 1, 2022",Thu,Guest lecture 2 - Task-oriented dialogue,Assignment 4 in
+Week 15,28,"December 6, 2022",Tue,Project help sessions,
+,29,"December 8, 2022",Thu,Project help sessions,Final project report due
+Week 16,30,"December 13, 2022",Tue,Porject presentation (final week),
+,31,"December 15, 2022",Thu,Porject presentation (final week),
