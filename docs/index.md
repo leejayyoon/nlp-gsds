@@ -2,7 +2,7 @@
 
 ## Links
 
-🗓 [Course schedule](https://leejayyoon.github.io/nlp-gsds/course_schedule.csv)
+🗓 [Course schedule](https://gsds-nlp-2022fall.notion.site/00dc8071593b4e878a0fb648a8914bde?v=f15877326cd6494480d8a35b52f6e860)
  📕 [Reference Texts](https://leejayyoon.github.io/nlp-gsds/#reference-texts)
  🕰 [Time & Location](https://leejayyoon.github.io/nlp-gsds/#time--location)
 
