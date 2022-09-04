@@ -2,15 +2,15 @@
 
 ## Links
 
-[Course schedule](https://leejayyoon.github.io/nlp-gsds/course_schedule.html)
+🗓 [Course schedule](https://leejayyoon.github.io/nlp-gsds/course_schedule.csv)
 
-📕   [Reference Texts.](%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%AD%E1%86%BC%20NLP%20and%20its%20recent%20progress%2035fe2e06897944258eaaab14f77c322a.md)
+📕 [Reference Texts](https://leejayyoon.github.io/nlp-gsds/#reference-texts)
 
- 🕰  [Time & Location.](%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%AD%E1%86%BC%20NLP%20and%20its%20recent%20progress%2035fe2e06897944258eaaab14f77c322a.md)
+🕰 [Time & Location](https://leejayyoon.github.io/nlp-gsds/#time--location)
 
-👨🏻‍🏫   [Instructor & TAs.](%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%AD%E1%86%BC%20NLP%20and%20its%20recent%20progress%2035fe2e06897944258eaaab14f77c322a.md)
-
-🏃🏻‍♂️   [Course description.](%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%AD%E1%86%BC%20NLP%20and%20its%20recent%20progress%2035fe2e06897944258eaaab14f77c322a.md)
+👨🏻‍🏫 [Instructor & TAs](https://leejayyoon.github.io/nlp-gsds/#instructor)
+🏃🏻‍♂️ [Course description](https://leejayyoon.github.io/nlp-gsds/#course-description)
+📐 [Grading policy](https://leejayyoon.github.io/nlp-gsds/#grading-policy) 
 
 ## Course Title
 
@@ -62,7 +62,8 @@ This course covers the following topics:
     - Cutoffs for final grades will be approximately 97+ A+, 93+ A, 90+ A-, 87+ B+, 83+ B, 80+ B-, etc.
 - **Assignments**: 70%  A+ (100), A (96), A- (92), B+ (88), B (85), B- (82), or below.
     - There will be four assignments.
-- **Midterm**: *20%*
+- **Quiz**: 10%
+- **Paper presentation**: 10%
 - **Project (optional):** Assignment 3 & 4 can be replaced with project.
     - Project proposal & state-of-the-art reimplementation (Due date identical to Assignment 3 due)
     - Final report & presentation.
