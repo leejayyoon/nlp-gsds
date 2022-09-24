@@ -55,12 +55,14 @@ This course covers the following topics:
 
 - **Final grade** will be determined as a weighted average of the assignments, midterm, and project.
     - Cutoffs for final grades will be approximately 97+ A+, 93+ A, 90+ A-, 87+ B+, 83+ B, 80+ B-, etc.
-- **Assignments**: 75%  A+ (100), A (96), A- (92), B+ (88), B (85), B- (82), or below.
-    - There will be four assignments.
+- **Assignments**: 35%  A+ (100), A (96), A- (92), B+ (88), B (85), B- (82), or below.
+    - There will be TWO assignments.
+        -  [Assigment 1](https://github.com/yc-song/gsds-nlp-assignment-1)
+        -  Assigment 2 (To be released soon)
 - **Participation**: 5%
 - **Quiz**: 10%
 - **Paper presentation**: 10%
-- **Project (optional):** Assignment 3 & 4 can be replaced with project.
+- **Project : 40%
     - Project proposal & state-of-the-art reimplementation (Due date identical to Assignment 3 due)
     - Final report & presentation.
     - Teams of 2-3. Individual project requires permission from instructor.
