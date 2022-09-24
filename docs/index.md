@@ -62,8 +62,8 @@ This course covers the following topics:
 - **Participation**: 5%
 - **Quiz**: 10%
 - **Paper presentation**: 10%
-- **Project : 40%
-    - Project proposal & state-of-the-art reimplementation (Due date identical to Assignment 3 due)
+- **Project** : 40%
+    - Project proposal & state-of-the-art reimplementation
     - Final report & presentation.
     - Teams of 2-3. Individual project requires permission from instructor.
     - Project grading
