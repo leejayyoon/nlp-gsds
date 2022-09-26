@@ -59,6 +59,7 @@ This course covers the following topics:
     - There will be TWO assignments.
         -  [Assigment 1](https://github.com/yc-song/gsds-nlp-assignment-1)
         -  Assigment 2 (To be released soon)
+    - Up to 10 grace days are provided (maximum 3 days per assignment). Using grace days for final project report is not allowed
 - **Participation**: 5%
 - **Quiz**: 10%
 - **Paper presentation**: 10%
