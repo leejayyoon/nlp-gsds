@@ -58,7 +58,7 @@ This course covers the following topics:
 - **Assignments**: 35%  A+ (100), A (96), A- (92), B+ (88), B (85), B- (82), or below.
     - There will be TWO assignments.
         -  [Assigment 1](https://github.com/yc-song/gsds-nlp-assignment-1)
-        -  Assigment 2 (To be released soon)
+        -  [Assigment 2](https://github.com/yc-song/gsds-nlp-assignment-2)
 - **Participation**: 5%
 - **Quiz**: 10%
 - **Paper presentation**: 10%
