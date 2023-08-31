@@ -77,8 +77,7 @@ This course covers the following topics:
       - Description of task.
       - Description of challenges to resolve, or project goal that the project wants to achieve.
       - Small survey of existing approaches (and their limitations) in short.
-    There will be some candidate research topics provided by TAs. 
-    Students may choose one of the provided topics and elaborate further, or propose an idea of their own.
+      - There will be some candidate research topics provided by TAs. Students may choose one of the provided topics and elaborate further, or propose an idea of their own.
   - (2) Progress report (4 pages; 10%) 
      The progress report should include the following
       - Baseline establishment: running the state-of-the-art models & analyzing it. Try to recover the state-of-the-art reusult and describe the difficulties (especially if you were not successful in recovering it). Based on the experiments and error analysis, what are the weakness of the baseline model? Describe how you might improve the baseline.
