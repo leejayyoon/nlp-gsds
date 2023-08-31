@@ -72,14 +72,14 @@ This course covers the following topics:
    - Teams of 2-3. Individual project requires permission from instructor.
    - From the project proposal, write your document in the [NeurIPS 2022 format](https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx) using latex (perhaps through overleaf).
 ## Detailed description on project:
-  - (Due date TBD) Idea proposal (1 page description of proposed idea; 10%)
+  - (1) Idea proposal (1 page description of proposed idea; 10%)
      The idea proposal should include following:
       - Description of task.
       - Description of challenges to resolve, or project goal that the project wants to achieve.
       - Small survey of existing approaches (and their limitations) in short.
     There will be some candidate research topics provided by TAs. 
     Students may choose one of the provided topics and elaborate further, or propose an idea of their own.
-  - (Due date TBD) Progress report (4 pages; 10%) 
+  - (2) Progress report (4 pages; 10%) 
      The progress report should include the following
       - Baseline establishment: running the state-of-the-art models & analyzing it. Try to recover the state-of-the-art reusult and describe the difficulties (especially if you were not successful in recovering it). Based on the experiments and error analysis, what are the weakness of the baseline model? Describe how you might improve the baseline.
       - More extensive literature survey compared to idea proposal.
@@ -90,7 +90,7 @@ This course covers the following topics:
          - B+: The survey lacks in coverage or analysis.
          - B or B-: The survey is lacking in both coverage and analysis, but makes some effort.
          - C+ or below: Clear lack of effort or incompleteness.
-  - (Due date TBD) Final report & presentation (about 6 pages or more, up to 8 pages; 20%)    
+  - (3) Final report & presentation (about 6 pages or more, up to 8 pages; 20%)    
       - On top of the project proposal, you should describe (1) newly proposed method or (2) how existing method was applied to new NLP task with description of unique challenge for such task, (3) how existing method and existing NLP task have been newly applied to new doamain/langauge.
       - Grading criteria.
         - A+: Exceptional or surprisingly creative. The project notably stands out compared to most of other projects.
