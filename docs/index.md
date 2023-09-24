@@ -31,10 +31,10 @@ No specific text book is required for this course but the following texts could 
 
 - email: lee.jayyoon@snu.ac.kr
 - office: Building 43, Room TBD
-- office hours: TBD
+- office hours: By appointment
 
 ## Teaching Assistants
-- TA Office hours: TBD
+- TA Office hours: By appointment
 - Song, Jonghyun (Head TA), [hyeongoon11@snu.ac.kr](mailto:hyeongoon11@snu.ac.kr)
 - Kim, Yikyung, [k2y1513@snu.ac.kr](mailto:k2y1513@snu.ac.kr)
 - Park, Seong-il, [athjk3@snu.ac.kr](mailto:athjk3@snu.ac.kr)
