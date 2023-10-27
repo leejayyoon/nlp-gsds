@@ -38,7 +38,6 @@ No specific text book is required for this course but the following texts could 
 - Song, Jonghyun (Head TA), [hyeongoon11@snu.ac.kr](mailto:hyeongoon11@snu.ac.kr)
 - Kim, Yikyung, [k2y1513@snu.ac.kr](mailto:k2y1513@snu.ac.kr)
 - Park, Seong-il, [athjk3@snu.ac.kr](mailto:athjk3@snu.ac.kr)
-- Park, Jeong-jin, [pkmon1d@snu.ac.kr](mailto:pkmon1d@snu.ac.kr)
 - Son, Hye Ryung, [hyeryung.son@snu.ac.kr](mailto:hyeryung.son@snu.ac.kr)
 
 ## Course description
