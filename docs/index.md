@@ -2,7 +2,7 @@
 
 ## Links
 
-🗓 [Course schedule](https://lee-jay-yoon.notion.site/lee-jay-yoon/00dc8071593b4e878a0fb648a8914bde?v=f15877326cd6494480d8a35b52f6e860)
+🗓 [Course schedule](https://lee-jay-yoon.notion.site/10347caa5a88495a89947af04bc4d941?v=39c2b3b47b3e40a5bbbe0aee2d78cb6e)
  📕 [Reference Texts](https://leejayyoon.github.io/nlp-gsds/#reference-texts)
  🕰 [Time & Location](https://leejayyoon.github.io/nlp-gsds/#time--location)
 
@@ -21,8 +21,8 @@ No specific text book is required for this course but the following texts could 
 
 ## Time & Location
 
-- **Time:** Tue & Thu 9:30am-10:45am
-- **Location:** Building 43-2, room B102 or virtually via Zoom.
+- **Time:** Fri 9:30am-12:20am
+- **Location:** Building 43, room 201 or virtually via Zoom.
 - Zoom link will be provided through ETL and possibly via emails.
 
 ## Instructor
@@ -30,15 +30,13 @@ No specific text book is required for this course but the following texts could 
 [Lee, Jay-Yoon](https://leejayyoon.github.io/) 
 
 - email: lee.jayyoon@snu.ac.kr
-- office: Building 43, Room TBD
+- office: Building 43, Room 513
 - office hours: By appointment
 
 ## Teaching Assistants
 - TA Office hours: By appointment
-- Song, Jonghyun (Head TA), [hyeongoon11@snu.ac.kr](mailto:hyeongoon11@snu.ac.kr)
-- Kim, Yikyung, [k2y1513@snu.ac.kr](mailto:k2y1513@snu.ac.kr)
-- Park, Seong-il, [athjk3@snu.ac.kr](mailto:athjk3@snu.ac.kr)
-- Son, Hye Ryung, [hyeryung.son@snu.ac.kr](mailto:hyeryung.son@snu.ac.kr)
+- Oh, Jeongseok, [luke0112@snu.ac.kr](mailto:luke0112@snu.ac.kr)
+- Jeon, Hyewon, [pingpong0926@snu.ac.kr](mailto:pingpong0926@snu.ac.kr)
 
 ## Course description
 
@@ -68,7 +66,7 @@ This course covers the following topics:
        - [Assignment 4]
 - **Project** : 40%
    - Teams of 2-3. Individual project requires permission from instructor.
-   - From the project proposal, write your document in the [NeurIPS 2022 format](https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx) using latex (perhaps through overleaf).
+   - From the project proposal, write your document in the [NeurIPS 2024 format](https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx) using latex (perhaps through overleaf).
 
 ## Detailed description on project:
 - (1) Idea proposal (1 page description of proposed idea; 10%)
