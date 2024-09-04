@@ -66,7 +66,7 @@ This course covers the following topics:
        - [Assignment 4]
 - **Project** : 40%
    - Teams of 2-3. Individual project requires permission from instructor.
-   - From the project proposal, write your document in the [NeurIPS 2024 format](https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx) using latex (perhaps through overleaf).
+   - From the project proposal, write your document in the [NeurIPS 2024 format](https://www.overleaf.com/latex/templates/neurips-2024/kxymzbjpwsqx) using latex (perhaps through overleaf).
 
 ## Detailed description on project:
 - (1) Idea proposal (1 page description of proposed idea; 10%)
