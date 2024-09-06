@@ -51,13 +51,13 @@ This course covers the following topics:
 - Recent concerns: controllability, injection of constraints and knowledge, bias & fairness
 
 ## Grading policy
-- Up to 10 **grace days** are provided (maximum 3 days per assignment). Using grace days for final project report is not allowed.
+- Up to 7 **grace days** are provided (maximum 3 days per assignment). Using grace days for final project report is not allowed.
 - **Final grade** will be determined as a weighted average of the assignments, midterm, and project.
     - Cutoffs for final grades will be approximately 97+ A+, 93+ A, 90+ A-, 87+ B+, 83+ B, 80+ B-, etc.
 - **Participation**: 5%
 - **Paper presentation**: 5%
 - **Quiz**: 10%
-   - When computing the total quiz score, we will exclude the two lowest quiz scores from the calculation.
+   - When computing the total quiz score, we will exclude the 3 lowest quiz scores from the calculation.
 - **Assignments**: 40%  A+ (100), A (96), A- (92), B+ (88), B (85), B- (82), or below.
     - There will be FOUR assignments (10% each). Links to be provided.
        - [Assignment 1]
