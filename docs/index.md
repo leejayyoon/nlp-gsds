@@ -2,7 +2,7 @@
 
 ## Links
 
-🗓 [Course schedule](https://lee-jay-yoon.notion.site/10347caa5a88495a89947af04bc4d941?v=39c2b3b47b3e40a5bbbe0aee2d78cb6e)
+🗓 [Course schedule](https://lee-jay-yoon.notion.site/25ead2afabc88027989cff2b2b425bc3?v=25ead2afabc880e5aa3d000cbafa6fbc&source=copy_link)
  📕 [Reference Texts](https://leejayyoon.github.io/nlp-gsds/#reference-texts)
  🕰 [Time & Location](https://leejayyoon.github.io/nlp-gsds/#time--location)
 
@@ -21,8 +21,8 @@ No specific text book is required for this course but the following texts could 
 
 ## Time & Location
 
-- **Time:** Fri 9:30am-12:20am
-- **Location:** Building 43, room 201 or virtually via Zoom.
+- **Time:** Mon, Wed 11:00am-12:15am
+- **Location:** Building 43-2, room B102 or virtually via Zoom.
 - Zoom link will be provided through ETL and possibly via emails.
 
 ## Instructor
@@ -35,8 +35,11 @@ No specific text book is required for this course but the following texts could 
 
 ## Teaching Assistants
 - TA Office hours: By appointment
-- Oh, Jeongseok, [luke0112@snu.ac.kr](mailto:luke0112@snu.ac.kr)
-- Jeon, Hyewon, [pingpong0926@snu.ac.kr](mailto:pingpong0926@snu.ac.kr)
+- Kim, Junha, [terajunha@snu.ac.kr](mailto:terajunha@snu.ac.kr)
+- Kim, Yeonsung, [yeonsungkim@snu.ac.kr](mailto:yeonsungkim@snu.ac.kr)
+- O, Sunah, [ec_osa16586@snu.ac.kr](mailto:ec_osa16586@snu.ac.kr)
+- Won, Jongbin, [jongbinwon@snu.ac.kr](mailto:jongbinwon@snu.ac.kr)
+- Cho, Changhee, [changhee1016@snu.ac.kr](mailto:changhee1016@snu.ac.kr)
 
 ## Course description
 
